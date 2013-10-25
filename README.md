@@ -1,2 +1,1 @@
-swipe
-=====
+A simple web app example using [require.js](http://requirejs.org/), [underscore.js](http://underscorejs.org//), css3 transitions and transformations.
